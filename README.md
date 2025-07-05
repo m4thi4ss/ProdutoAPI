@@ -52,6 +52,14 @@ Aplicação Web API que expõe os endpoints:
 - `Controllers/ProdutoController.cs`
 
 ---
+### 🔄 Paginação
+
+Para obter os produtos com paginação, utilize os parâmetros `pagina` e `quantidade` na URL:
+
+**Exemplo:**
+- `pagina`: número da página que deseja consultar (padrão = 1)
+- `quantidade`: quantidade de registros por página (padrão = 10)
+---
 ### Configuração da String de Conexão
 
 Antes de rodar o projeto, substitua o valor de `"ConexaoPadrao"` no arquivo `appsettings.json` pela sua string de conexão real com o banco de dados SQLite.
