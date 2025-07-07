@@ -20,7 +20,7 @@ A estrutura segue boas práticas com camadas separadas para domínio, dados, ser
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 Organização em 4 projetos:
 
