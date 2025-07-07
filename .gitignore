@@ -1,0 +1,19 @@
+# Pastas de build do Visual Studio
+.vs/
+bin/
+obj/
+
+# Arquivos de build
+.exe
+.dll
+.pdb
+
+#Banco de dados SQLite
+*.db
+
+#Arquivos de log e cache
+*.log
+*.cache
+
+# Configs locais 
+appsettings.Development.json
